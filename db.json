@@ -1,10 +1,82 @@
 {
   "blogs": [
     {
-      "title": "w",
-      "body": "w",
-      "author": "Mayur",
-      "id": 1
+      "title": "Andrew Sullivan",
+      "body": "Andrew started his blog, The Daily Dish, near the end of 2000. By the middle of 2003, he was receiving about 300,000 unique visits per month. In 2013, Sullivan made some big changes and decided to leave his other his other blogging gigs (formerly at TIME, The Atlantic, and The Daily Beast) to work on The Daily Dish full-time. On launch day, the blog reportedly took in over $330,000 in recurring revenue, charging an average of $20/month to readers.",
+      "author": "Chris",
+      "id": 3,
+      "comments": [
+        {
+          "username": "Chris",
+          "review": "ges and decided to leave his other his other blogging gigs (formerly at TIME, The Atlantic, and The Daily "
+        },
+        {
+          "username": "Chris",
+          "review": "TIME, The Atlantic, and The Daily Beast) to work on The Daily Dish full-time. On launch day, the blog repo"
+        },
+        {
+          "username": "Chris",
+          "review": "f"
+        }
+      ]
+    },
+    {
+      "title": "Andrew Sullivan",
+      "body": "Andrew started his blog, The Daily Dish, near the end of 2000. By the middle of 2003, he was receiving about 300,000 unique visits per month. In 2013, Sullivan made some big changes and decided to leave his other his other blogging gigs (formerly at TIME, The Atlantic, and The Daily Beast) to work on The Daily Dish full-time. On launch day, the blog reportedly took in over $330,000 in recurring revenue, charging an average of $20/month to readers.",
+      "author": "Chris",
+      "id": 4,
+      "comments": [
+        {
+          "username": "Mayur",
+          "review": "Very Good"
+        },
+        {
+          "username": "Mayur",
+          "review": "Nice"
+        },
+        {
+          "username": "Mayur",
+          "review": "Ok"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Mayur",
+      "email": "mayur@example.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "username": "Nimish",
+      "email": "mayur@example.com",
+      "password": "12345"
+    },
+    {
+      "username": "hi",
+      "email": "mayursinghal33@gmail.com",
+      "password": "aaaaa",
+      "id": 3
+    },
+    {
+      "username": "mayur",
+      "email": "A@gmail.com",
+      "password": "aaaaaa",
+      "id": 4
+    },
+    {
+      "username": "ff",
+      "email": "ff@d.com",
+      "password": "fff",
+      "id": 5
+    },
+    {
+      "username": "dadaa",
+      "email": "ff@d.com",
+      "password": "sdsfsds",
+      "id": 6
     }
   ]
 }
